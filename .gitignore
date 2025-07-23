@@ -4,8 +4,6 @@
 
 ### Node ###
 # Logs
-
-##ist é apenas um comentario
 logs
 *.log
 npm-debug.log*
